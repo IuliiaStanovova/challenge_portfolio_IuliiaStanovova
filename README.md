@@ -1,4 +1,4 @@
-__Task 1__
+__TASK 1__
 ____
 - [X] ***Subtask 1***
 
@@ -52,6 +52,33 @@ __________
   W 'Filter table' w języku polskim zostały się nie przytłumaczone 'Age', 'Rate', 'max'.
   
   Przy zapomnieniu hasła do aplikacji podaję jaki kolwiek mail i pisze, że 'wysłano wiadomość na mail', ale zmieniłabym to na 'W systemie nie istnieje konto, dla którego usiłujesz zresetować hasło'.
+
+  
+
+  __TASK 2__
+
+  ___________________
+
+  
+❌ ***Subtask 1***
+      
+https://docs.google.com/document/d/1VM4ycv3xq0F-WrxSmzR51FOvbOf7CaPKcdWF-NhthT0/edit?usp=sharing
+
+_______________
+
+❌ ***Subtask 2***
+     
+ https://docs.google.com/document/d/158-qRxHxItRM6Lmo7X4tx0kKuZcTnIawi46XBnR0Ndc/edit?usp=sharing
+      
+___________
+
+- [X] ***Subtask 3***
+
+***Dlaczego piszemy przypadki testowe? Na co to komu potrzebne?*** 
+
+Pisanie przypadków testowych oznacza tworzenie tekstowego opisu procesu testowania jakiejś części lub funkcji projektu. Przypadki testowe są potrzebne, aby członkowie zespołu mogli przetestować program i zapoznać się z nim bez czytania całego kodu, ale studiując tylko przypadek testowy.
+
+
 
   
 
