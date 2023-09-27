@@ -78,6 +78,13 @@ ___________
 
 Pisanie przypadków testowych oznacza tworzenie tekstowego opisu procesu testowania jakiejś części lub funkcji projektu. Przypadki testowe są potrzebne, aby członkowie zespołu mogli przetestować program i zapoznać się z nim bez czytania całego kodu, ale studiując tylko przypadek testowy.
 
+__TASK 3__
+
+_____________
+
+❌***Subtask 1+Subtask 2+ Subtask 3***
+
+https://docs.google.com/document/d/1gQkuWTD0H80Akrhs4erMtBZ5JeV34G5-TNjyoidcel8/edit?usp=sharing
 
 
   
