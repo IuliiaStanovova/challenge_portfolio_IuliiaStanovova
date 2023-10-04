@@ -86,6 +86,43 @@ _____________
 
 https://docs.google.com/document/d/1gQkuWTD0H80Akrhs4erMtBZ5JeV34G5-TNjyoidcel8/edit?usp=sharing
 
+__TASK 4__
+
+______________________
+
+- [x] ***Subtask 1+2***
+
+https://docs.google.com/spreadsheets/d/1PlllsCIOqwsYQf6ej-pKCIXgrp1AqgLqJms_085tdAk/edit?usp=sharing
+
+_______________________
+
+- [x] ***Subtask 3***
+
+1. __Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?__
+
+ Aplikacja OLX stworzona dla darmowych ogłoszeń lokalnych w kategoriach: Moda :lipstick: 👕 👠 , Zwierzęta 🐕 🐷, Dla Dzieci 🍼 👶, Sport i Hobby 👯‍♀️, Muzyka 🎵, Edukacja i Praca 👷‍♂️, Pokoi, Samochody. 
+ 
+ Celem aplikacji jest znależć ogłoszenia i łatwo skontaktować się 📝 z ogłoszeniodawcą, sprzedać albo kupić 📦 coś tańsze niz w sklepach. 
+
+ 2. __Kto ma być użytkownikiem końcowym aplikacji?__
+
+    Urzytkownikiem może być osoba która posiada swój adres mailowy.
+
+3. __Czy według Ciebie aplikacja jest user friendly?__
+
+   Tak, aplikacja jest user friendly, ale ma wiele rzeczy do poprawy.
+
+4. __Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?__
+
+Żeby usprawnić aplikację to dodałabym możliwość czytać aplikację w różnych językach, żeby ta opcja była dostępna dla użytkownika po zalogowaniu do aplikacji. Usunęłabym przycisk ' Nowa praca'. Nie rozumiem o co chodzi w tym miejscu i tak przycisk nie działa. Wiele rzeczy trzeba zmienić w 'Profil kandydata' i w 'Ustawieniach' - 'Dane do faktur' - jeśli nie można wpisać taki dane to potrzebno usunąć 'Dane do faktur'. Nie ma mozliwości dodać zdjęcie do profilu. 😸
+
+5. __Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?__
+
+Testowanie aplikacji natywnej jest łatwiej, dlatego, że możemy testować będąc gdziekolwiek. Ale trudno jest zapamiętać błąd, gdy robisz zrzut ekranu, a następnie szukasz ich i chcesz znaleźć i zrozumieć, jaki błąd znalazłaś wcześniej.😂 Wygodniej jest zapisywać błędy z aplikacji internetowej. Też wygodno nagrywać ekran kiedy testujesz aplikacji internetowe. 
+
+
+   
+
 
   
 
