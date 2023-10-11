@@ -120,6 +120,36 @@ _______________________
 
 Testowanie aplikacji natywnej jest łatwiej, dlatego, że możemy testować będąc gdziekolwiek. Ale trudno jest zapamiętać błąd, gdy robisz zrzut ekranu, a następnie szukasz ich i chcesz znaleźć i zrozumieć, jaki błąd znalazłaś wcześniej.😂 Wygodniej jest zapisywać błędy z aplikacji internetowej. Też wygodno nagrywać ekran kiedy testujesz aplikacji internetowe. 
 
+__TASK 5__  __SQL__
+
+____________
+
+- [x] ***Subtask 1***
+
+Operatory/zapytania jakich się nauczyłam:
+
++ SELECT
++ FROM
++ WHERE
++ ORDER BY NAME
++ DESC
++ ASC
++ =
++ BETWEEN
++ AND
++ OR
++ LIKE
++ % - dowolna ilość dowolnych znaków
++ _ jeden dowolny znak
++ '   ' tekst
++ IS NULL
++ IS NOT NULL
++ IN
+
+
+      
+
+
 
    
 
