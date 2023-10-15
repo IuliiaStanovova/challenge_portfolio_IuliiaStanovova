@@ -146,6 +146,16 @@ Operatory/zapytania jakich się nauczyłam:
 + IS NOT NULL
 + IN
 
+  - [x] ***Subtask 3***
+ 
+        1. SELECT * FROM `actors` ORDER BY surname ASC
+        
+  <img width="223" alt="w kolejności alfabetycznej sortując po kolumnie surname" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/03973c71-c105-4205-a325-195f2de31453">
+
+        2. SELECT * FROM `movies` WHERE year_of_production LIKE '2019'
+
+<img width="261" alt="year of production 2019" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/cba6dfbe-55b8-40a7-98bb-32ea60e6f31b">
+
 
       
 
