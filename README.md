@@ -167,6 +167,18 @@ Operatory/zapytania jakich się nauczyłam:
 
   <img width="587" alt="year of production between 1900 and 1999" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/8bc0c4aa-3f63-4653-9e14-4b31bb0adba4">
 
+
+
+
+    4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+ 
+
+
+  <img width="586" alt="TITLE AND PRICE LESS 7" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/5ffc9af3-0cf8-48f5-b35f-ba50ab4dd07d">
+  
+
+
+             
   
 
 
