@@ -161,6 +161,15 @@ Operatory/zapytania jakich się nauczyłam:
    <img width="261" alt="year of production 2019" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/cba6dfbe-55b8-40a7-98bb-32ea60e6f31b">
 
 
+         3.Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+
+          SELECT * FROM `movies` WHERE year_of_production BETWEEN 1900 AND 1999
+
+  <img width="587" alt="year of production between 1900 and 1999" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/8bc0c4aa-3f63-4653-9e14-4b31bb0adba4">
+
+  
+
+
       
 
 
