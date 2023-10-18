@@ -60,13 +60,13 @@ __________
   ___________________
 
   
-❌ ***Subtask 1***
+- [X] ***Subtask 1***
       
 https://docs.google.com/document/d/1VM4ycv3xq0F-WrxSmzR51FOvbOf7CaPKcdWF-NhthT0/edit?usp=sharing
 
 _______________
 
-❌ ***Subtask 2***
+- [X] ***Subtask 2***
      
  https://docs.google.com/document/d/158-qRxHxItRM6Lmo7X4tx0kKuZcTnIawi46XBnR0Ndc/edit?usp=sharing
       
@@ -82,7 +82,7 @@ __TASK 3__
 
 _____________
 
-❌***Subtask 1+Subtask 2+ Subtask 3***
+- [X] ***Subtask 1+Subtask 2+ Subtask 3***
 
 https://docs.google.com/document/d/1gQkuWTD0H80Akrhs4erMtBZ5JeV34G5-TNjyoidcel8/edit?usp=sharing
 
@@ -90,13 +90,13 @@ __TASK 4__
 
 ______________________
 
-- [x] ***Subtask 1+2***
+- [X] ***Subtask 1+2***
 
 https://docs.google.com/spreadsheets/d/1PlllsCIOqwsYQf6ej-pKCIXgrp1AqgLqJms_085tdAk/edit?usp=sharing
 
 _______________________
 
-- [x] ***Subtask 3***
+- [X] ***Subtask 3***
 
 1. __Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?__
 
@@ -148,33 +148,65 @@ Operatory/zapytania jakich się nauczyłam:
 
   - [x] ***Subtask 3***
  
-        1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+ __1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.__
         
          SELECT * FROM `actors` ORDER BY surname ASC
         
   <img width="223" alt="w kolejności alfabetycznej sortując po kolumnie surname" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/03973c71-c105-4205-a325-195f2de31453">
 
-        2. Wyświetl film, który powstał w 2019 roku.
+  __2. Wyświetl film, który powstał w 2019 roku.__
   
          SELECT * FROM `movies` WHERE year_of_production LIKE '2019'
 
    <img width="261" alt="year of production 2019" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/cba6dfbe-55b8-40a7-98bb-32ea60e6f31b">
 
 
-         3.Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+__3.Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.__
 
           SELECT * FROM `movies` WHERE year_of_production BETWEEN 1900 AND 1999
 
-  <img width="587" alt="year of production between 1900 and 1999" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/8bc0c4aa-3f63-4653-9e14-4b31bb0adba4">
+ <img width="587" alt="year of production between 1900 and 1999" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/8bc0c4aa-3f63-4653-9e14-4b31bb0adba4">
 
 
-
-
-    4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+ __4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$__
  
 
+<img width="586" alt="TITLE AND PRICE LESS 7" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/5ffc9af3-0cf8-48f5-b35f-ba50ab4dd07d">
 
-  <img width="586" alt="TITLE AND PRICE LESS 7" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/5ffc9af3-0cf8-48f5-b35f-ba50ab4dd07d">
+
+ __5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.__
+ 
+
+<img width="584" alt="picture 2" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/eafbf106-de6e-4d8c-a0d3-5f5567d98b63">
+
+
+__6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.__
+
+<img width="588" alt="Picture 4" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/ccbfde96-2e53-4f7b-933a-3bbb2b37fd57">
+  
+__7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.__
+
+ <img width="618" alt="Picture 6" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/7430bfe1-9822-4a9b-a433-363804ab800e">
+
+
+__8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.__
+
+ <img width="588" alt="Picture 5" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/0c7ca1ca-73c1-46ca-95f1-42eaf2d22282">
+
+__9. Wyświetl dane klienta, który nie ma podanego adresu email.__
+
+<img width="604" alt="picture 7" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/288120a5-0648-4ff4-a7cb-5431a25fe022">
+
+__10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.__
+
+<img width="633" alt="picture 8" src="https://github.com/IuliiaStanovova/challenge_portfolio_IuliiaStanovova/assets/142715732/5d8ae709-506e-4575-b311-5642be99084b">
+
+
+
+
+
+     
+
   
 
 
